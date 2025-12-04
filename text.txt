@@ -1,0 +1,6 @@
+const phones = [
+    { id: 1, name: "iQOO Z10 5G", price: 20998, img: "images/41FL9Y1+DiL._SY300_SX300_.jpg" },
+    { id: 2, name: "OnePlus Nord CE4 Lite 5G", price: 15500, img: "images/31hcJbP0BuL._SX300_SY300_QL70_FMwebp_.webp" },
+    { id: 3, name: "Redmi 13 5G Prime Edition", price: 16499, img: "images/box3.jpg" },
+    { id: 4, name: "Samsung Galaxy S25 5G Smartphone with Galaxy AI ", price: 74599, img: "images/box4.jpg" },
+  ];
